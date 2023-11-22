@@ -1,3 +1,4 @@
+Using conda env -
 1. Create conda environment using environment.yml file
 
     ```bash
@@ -17,7 +18,7 @@
     ```
 
 
-Dependencies -
+Install Dependencies seperately -
 0. numpy, scipy
 
     ```bash
