@@ -19,6 +19,7 @@ Using conda env -
 
 
 Install Dependencies seperately -
+
 0. numpy, scipy
 
     ```bash
